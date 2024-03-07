@@ -1,0 +1,22 @@
+{
+  "name": "ronil-chok",
+  "version": "1.0.0",
+  "description": "ronil-chok",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lirotip/ronil-chok.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lirotip/ronil-chok/issues"
+  },
+  "homepage": "https://github.com/Lirotip/ronil-chok#readme"
+}
